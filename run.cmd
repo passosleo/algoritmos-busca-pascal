@@ -1,7 +1,7 @@
 @echo off
 
 cls
-fpc busca.pas
+fpc busca_binaria.pas
 pause
 cls
-busca.exe
+busca_binaria.exe
